@@ -15,6 +15,6 @@ Around 2023, he keenly recognized the rise and vast potential of artificial inte
 
 Hobbies
 ======
-I love EDM music, skiing and riding motorcycle. In fact, while pursuing my master’s degree in New York, I founded an EDM bar catering to Chinese international students, where I invited dozens of top-100 DJs to perform, and secured angel investment of several million RMB from Guo Wei, an investor from Silicon Valley. In 2019, I also organized a hip-hop livehouse event in New York, featuring well-known artists such as Wang Yitai, Xie Di, and Parker T.
+I love EDM music, skiing and riding motorcycle. In fact, while pursuing my master’s degree in New York, I founded an EDM bar catering to Chinese international students, where I invited dozens of top-100 DJs to perform, and secured angel investment of several million RMB from Guo Wei, an investor from Silicon Valley. In 2019, I also organized a hip-hop livehouse event in New York, featuring well-known artists such as Yitai Wang, Boss X, and PACT.
 
 Beyond my entrepreneurial pursuits, I am a passionate skier, having challenged ski resorts in the United States, Canada, China, Japan, and Belgium. Lastly, I have a deep love for motorcycles, and while studying in Seattle, I owned a Kawasaki motorcycle.

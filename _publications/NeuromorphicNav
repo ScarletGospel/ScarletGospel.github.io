@@ -1,5 +1,5 @@
 ---
-title: "<span style='background-color:#ff9800; color:white; font-weight:bold; padding:2px 6px; border-radius:4px; margin-right:6px; text-decoration:none;'>[Independent 1st Author]</span> <span style='color:red; font-weight:bold; text-decoration:none;'>[CCF-A]</span> <span style='color:black; font-weight:bold; text-decoration:none;'>[Spotlight]</span> Fully Autonomous Neuromorphic Navigation and Dynamic Obstacle Avoidance"
+title: "<span style='color:black; font-weight:bold; margin-right:6px; text-decoration:none;'>[Independent 1st Author]</span> <span style='color:red; font-weight:bold; margin-right:6px; text-decoration:none;'>[CCF-A]</span> <span style='color:blue; font-weight:bold; margin-right:6px; text-decoration:none;'>[Spotlight]</span> Fully Autonomous Neuromorphic Navigation and Dynamic Obstacle Avoidance"
 collection: publications
 category: conferences
 permalink: /publication/NeuromorphicNav

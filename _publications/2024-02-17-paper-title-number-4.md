@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "<span style='color:red; font-weight:bold;'>CCF-A</span> <span style='color:black; font-weight:bold;'>Spotlight</span> Fully Autonomous Neuromorphic Navigation and Dynamic Obstacle Avoidance"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'A fully autonomous neuromorphic pipeline for tiny autonomous UAV to navigate and avoid dynamic obstacles under various light conditions in less than 2.3 ms with energy consumption reduced to 21% of traditional architecture.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'Neurips 2025'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

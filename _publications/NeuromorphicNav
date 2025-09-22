@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/NeuromorphicNav
 excerpt: 'A fully autonomous neuromorphic pipeline for tiny autonomous UAV to navigate and avoid dynamic obstacles under various light conditions in less than 2.3 ms with energy consumption reduced to 21% of traditional architecture.'
 date: 2025-09-18
-venue: 'Neurips 2025'
+venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neurips)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Blank for now'
 ---

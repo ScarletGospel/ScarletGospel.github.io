@@ -23,7 +23,7 @@ repository               : "ScarletGospel/ScarletGospel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "照片.png"
+  avatar           : "头像.jpg"
   name             : "Xiaochen Shang"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, ex-Founder and Banker"
